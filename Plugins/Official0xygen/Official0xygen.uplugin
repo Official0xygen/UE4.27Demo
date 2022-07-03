@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Official0xygen",
+	"Description": "NFT Metamask Synchronization Plugin",
+	"Category": "Crypto",
+	"CreatedBy": "0xygen",
+	"CreatedByURL": "https://www.0xygen.io",
+	"DocsURL": "https://www.docs.0xygen.io/",
+	"MarketplaceURL": "https://www.0xygen.io",
+	"SupportURL": "https://www.0xygen.io",
+	"EngineVersion": "4.27.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "Official0xygen",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen",
+			"WhitelistPlatforms": [
+				"Win64"
+			]
+		}
+	]
+}

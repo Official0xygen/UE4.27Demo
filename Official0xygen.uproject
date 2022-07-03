@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "Official0xygen",
+			"Enabled": true,
+			"MarketplaceURL": "https://www.0xygen.io"
+		}
+	]
+}
