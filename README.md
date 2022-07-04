@@ -1,5 +1,5 @@
 # UE4.27Demo
-This is a demo project for UE 4.27 Win64 containing everything you need to test the functionality of the Unreal Engine to MetaMask NFT integration.
+This is a demo project for UE 4.27 Win64 containing everything you need to test the functionality of the Official0xygen Unreal Engine to MetaMask NFT integration plugin.
 
 1. Download from Github as a zip file, and unzip
 2. Press play in the editor. You may need to open the Sample map first.
