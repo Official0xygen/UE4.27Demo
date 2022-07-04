@@ -8,5 +8,5 @@ This is a demo project for UE 4.27 Win64 containing everything you need to test 
       user: sample@0xygen.io pw: 9876543@
       Please note that the domain is 0xygen with a zero, not a letter 'O'.
       
-You can mint, test, and learn more about Official 0xygen via the official documentation, which can be found at https://www.0xygen.io
+You can mint, test, and learn more about Official 0xygen via the official documentation, which can be found at https://www.docs.0xygen.io
 Join us on Discord: https://discord.com/invite/kHAAd8dJgF
